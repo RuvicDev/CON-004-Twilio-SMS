@@ -6,6 +6,7 @@
   "description": "Envío de SMS transaccionales por Twilio y consulta del estado de entrega de los mensajes",
   "description_en": "Send transactional SMS via Twilio and check the delivery status of messages",
   "category": "messaging",
+  "icon": "icon.svg",
   "category_en": "messaging",
   "keywords": ["twilio", "sms", "texto", "text message", "mensajería", "messaging", "otp", "código", "verification code", "notificaciones", "notifications", "api key"],
   "library": {
